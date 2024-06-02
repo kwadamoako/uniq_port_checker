@@ -6,35 +6,6 @@ Uniq Port Checker is being actively developed by [@Kwadwo](https://www.linkedin.
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Unique Port Checker</title>
-<style>
-    body {
-        font-family: Arial, sans-serif;
-        margin: 0;
-        padding: 0;
-    }
-    .container {
-        max-width: 800px;
-        margin: 20px auto;
-        padding: 20px;
-        border: 1px solid #ccc;
-        border-radius: 8px;
-        background-color: #f9f9f9;
-    }
-    h1 {
-        text-align: center;
-    }
-    img {
-        display: block;
-        margin: 0 auto;
-        max-width: 100%;
-        height: auto;
-    }
-    hr {
-        margin: 20px 0;
-        border: none;
-        border-top: 1px solid #ccc;
-    }
-</style>
 </head>
 <body>
 
