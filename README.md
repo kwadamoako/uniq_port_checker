@@ -7,7 +7,7 @@
 <body>
 
 <div class="container">
-    <h1>Unique Port Checker</h1> 
+    <h1>Uniq Port Checker</h1> 
     <p>This tool is being actively developed by <a href="https://www.linkedin.com/in/kwadwo-agyei-amoako/">Kwadwo</a>.</p>
     <p>This tool scans through your Nmap report and identifies IP addresses that have a unique set of open ports compared to others in the scan. The uniqueness of the open ports is determined by the number of IPs that have them open. Users can specify the percentage with which to work with.</p>
     <hr>
