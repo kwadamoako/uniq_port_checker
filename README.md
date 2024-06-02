@@ -5,7 +5,6 @@ Uniq Port Checker is being actively developed by [@Kwadwo](https://www.linkedin.
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Unique Port Checker</title>
 </head>
 <body>
 
