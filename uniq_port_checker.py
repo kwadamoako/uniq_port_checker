@@ -1,7 +1,7 @@
 # uniq_port_checker version 1.0 
 # created by Kwadwo Amoako
 # Please use responsibly...
-# Software URL: https://github.com/kwadamoako/unique_port_checker/
+# Software URL: https://github.com/kwadamoako/uniq_port_checker/
 # linkedin: https://www.linkedin.com/in/kwadwo-agyei-amoako/
 
 import re
